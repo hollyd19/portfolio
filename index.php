@@ -36,15 +36,26 @@
 </div>
 
 <div id="about_me" class="content">
-<h1 class="title">About Me<h1>
+<h3>Cornell Engineering Student. Kappa Delta. Avid Pinner.</h3>
+<p>Witty text about myself goes here.</p>
 </div>
 
 <div id="experience" class="content">
-<h1 class="title">Experience<h1>
+<h3>Background</h3>
+<ul>
+	<li>Information Science, Systems, and Technology Major</li>
+	<li>Interaction Design Intern @ Perceptive Software</li>
+</ul>
+<h3>Relevant Coursework</h3>
+<ul>
+	<li>Fill in course info</li>
+</ul>
+
 </div>
 
 <div id="links" class="content">
-<h1 class="title">Links<h1>
+<h3>Tweeter. Linker. Pinner. Blogger.</h3>
+<p>Cool icons go here.</p>
 </div>
 
 
