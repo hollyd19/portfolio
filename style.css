@@ -82,6 +82,8 @@ q{
 
 #name_header{
 	cursor: pointer;
+	width: 30%;
+	margin-right: 50%;
 }
 
 .current{
