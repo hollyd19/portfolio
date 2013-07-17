@@ -15,7 +15,6 @@
 </div>
 
 <div id="intro_content" class="content active">
-<h1 id="name">Holly E. Domke</h1>
 <ul id="desc">
 	<li>Cornell University Student</li>
 	<li>User Experience Designer</li>

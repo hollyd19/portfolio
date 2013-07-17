@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$('#intro_content').show();
-	$('#name_header').hide();
+	$('#name_header').show();
 	$('#about_me').hide();
 	$('#experience').hide();
 	$('#links').hide();
