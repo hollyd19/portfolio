@@ -1,9 +1,9 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style/style.css">
 <link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-<script src="javascript.js"></script>
+<script src="scripts/javascript.js"></script>
 <title>Holly Domke</title>
 </head>
 <body>
