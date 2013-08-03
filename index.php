@@ -36,12 +36,10 @@
 </div>
 
 <div id="about_me" class="content">
-<h3>Cornell Engineering Student & Aspiring User Experience Designer</h3>
-<h4>Curious, Hardworking, Enthusiastic.</h4>
-<p>I think technology has the ability to change the world! I am particularly excited about:</p>
+<h3>Curious, Hardworking, Enthusiastic.</h3>
+<p>I think technology has the ability to change the world!<br/> Some topics I am particularly excited about:</p>
 <ul>
 <li>Making products and interactions intuitive and enjoyable</li>
-<li>Solving big, real problems with technology</li>
 <li>Encouraging young women to retain interest in STEM fields</li>
 <li>Working and living in a meaningful way</li>
 <ul>
@@ -55,16 +53,27 @@
 </ul>
 <h3>Relevant Coursework</h3>
 <ul>
-	<li>Fill in course info</li>
+	<li>Human-Computer Interaction</li>
+	<li>Technology in Collaboration</li>
+	<li>Web Design and Programming</li>
+	<li>Object-Oriented Programming & Data Structures</li>
+	<li>Deception in the Networked Age</li>
+	<li>Ubiquitous Computing</li>
+	<li>Communication & Technology</li>
+	<li>Networks I & II</li>
+	<li>Data-Driven Web Applications</li>
+	<li>Communications for Engineering Managers</li>
 </ul>
 
 </div>
 
 <div id="links" class="content">
 <h3>Tweeter. Linker. Pinner. Blogger.</h3>
-<p>Cool icons go here.</p>
+<a href="https://twitter.com/hollyd19" class="twitter-follow-button" data-show-count="false">Follow @hollyd19</a>
+<a href="http://www.linkedin.com/pub/holly-domke/2a/763/9b1" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Holly Domke's LinkedIn profile" style="vertical-align:middle" border="0"></span></a> <a data-pin-do="buttonFollow" href="http://pinterest.com/pinterest/">Pinterest</a>
 </div>
 
-
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 </body>
 </html>
