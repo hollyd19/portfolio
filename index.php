@@ -70,9 +70,10 @@
 <div id="links" class="content">
 <h3>Tweeter. Linker. Pinner. Blogger.</h3>
 <a href="https://twitter.com/hollyd19" class="twitter-follow-button" data-show-count="false"></a>
-<a href="http://www.linkedin.com/pub/holly-domke/2a/763/9b1" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Holly Domke's LinkedIn profile" style="vertical-align:middle" border="0"></span></a> <a data-pin-do="buttonFollow" href="http://pinterest.com/pinterest/">Pinterest</a>
+<a href="http://www.linkedin.com/pub/holly-domke/2a/763/9b1" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Holly Domke's LinkedIn profile" style="vertical-align:middle" border="0"></span></a> <a data-pin-do="buttonFollow" href="http://pinterest.com/hollyd19/">Pinterest</a>
 </div>
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 </body>
 </html>
