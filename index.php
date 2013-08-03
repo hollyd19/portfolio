@@ -36,8 +36,15 @@
 </div>
 
 <div id="about_me" class="content">
-<h3>Cornell Engineering Student. Kappa Delta. Avid Pinner.</h3>
-<p>Witty text about myself goes here.</p>
+<h3>Cornell Engineering Student & Aspiring User Experience Designer</h3>
+<h4>Curious, Hardworking, Enthusiastic.</h4>
+<p>I think technology has the ability to change the world! I am particularly excited about:</p>
+<ul>
+<li>Making products and interactions intuitive and enjoyable</li>
+<li>Solving big, real problems with technology</li>
+<li>Encouraging young women to retain interest in STEM fields</li>
+<li>Working and living in a meaningful way</li>
+<ul>
 </div>
 
 <div id="experience" class="content">
