@@ -75,7 +75,7 @@
 <h3>Tweeter. Linker. Pinner. Designer.</h3>
 <div id="sm_left_fill"></div>
 <div class="sm"><a href="https://twitter.com/hollyd19"><img src="images/sm icons/Twitter.png"></a></div>
-<div class="sm"><a href="www.linkedin.com/pub/holly-domke/2a/763/9b1/"><img src="images/sm icons/LinkedIn.png"></a></div>
+<div class="sm"><a href="https://www.linkedin.com/pub/holly-domke/2a/763/9b1/"><img src="images/sm icons/LinkedIn.png"></a></div>
 <div class="sm"><a href="http://pinterest.com/hollyd19/boards/"><img src="images/sm icons/Pinterest.png"></a></div>
 <div class="sm"><a href="http://www.behance.net/hollyd"><img src="images/sm icons/Behance.png"></a></div>
 <div id="thanks"><p>Background photo courtesy of <a href="http://www.leighmillerphotography.com/">Leigh Miller Photography</a><br/>
