@@ -1,0 +1,21 @@
+body{
+font-family: 'Pompiere', cursive;
+color: #2C2523;
+}
+
+div {
+	width: 20%;
+	min-width: 300px;
+	margin: 0;
+	float: left;
+	position: relative;
+	height: auto;
+	min-height: 200px;
+}
+
+#back{
+width: 100%;
+float: left;
+height: auto;
+min-height:0;
+}

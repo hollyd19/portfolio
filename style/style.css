@@ -14,6 +14,10 @@ color: #2C2523;
 
 }
 
+p{
+	font-size: 120%;
+}
+
 #filler_left{
 	float:left;
 	width:15%;
@@ -28,7 +32,7 @@ color: #2C2523;
 
 #filler_top{
 	float: left;
-	height: 20%;
+	height: 15%;
 	width: 80%;
 }
 
@@ -43,6 +47,20 @@ color: #2C2523;
 	padding-bottom: 10px;
 	min-width: 200px;
 	margin-top: 25px;
+	max-height: 250px;
+	overflow: auto;
+}
+
+#astrick_note{
+	text-align: left;
+	font-size: 90%;
+	margin-top: 2%;
+	margin-left: 5%;
+}
+
+ul.content_list {
+	list-style-type: square;
+	text-align: left;
 }
 
 h1{
@@ -57,9 +75,10 @@ q{
 }
 
 li{
-	list-style-type: none;
+	/*list-style-type: none;*/
 	padding: 5px;
 	margin: 0;
+	font-size: 120%;
 }
 
 #desc{
@@ -102,4 +121,33 @@ li{
 
 .current{
 	background-color: #929685;
+}
+
+.sm{
+	width: 15%;
+	float: left;
+	position: relative;
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+#sm_left_fill{
+	float: left;
+	position: relative;
+	height: 10px;
+	width: 20%;
+}
+
+#thanks{
+	font-size: 80%;
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+p#thanks{
+	margin: 0;
+	padding: 0;
 }
